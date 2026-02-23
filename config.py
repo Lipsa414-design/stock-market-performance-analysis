@@ -1,6 +1,5 @@
 EXPERIMENT_NAME = "diversified_sector_analysis"
 
-# diversified multi-sector portfolio
 TICKERS = ["JPM", "XOM", "JNJ", "TSLA"]
 
 START_DATE = "2025-01-01"
